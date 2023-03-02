@@ -1,0 +1,6 @@
+API_KEY = "6286392582:AAEKOJAZIHzdCYEMrxrqKB6c202pZs26F_Q"
+
+
+#ChatID's 
+OK_Group = ["-917210434"]
+Not_OK_Group = ["-917210434"]
